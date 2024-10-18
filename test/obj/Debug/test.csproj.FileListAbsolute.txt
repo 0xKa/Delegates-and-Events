@@ -1,0 +1,7 @@
+F:\ProgrammingAdvices\Course 19 - Full Real Project\test\bin\Debug\test.exe.config
+F:\ProgrammingAdvices\Course 19 - Full Real Project\test\bin\Debug\test.exe
+F:\ProgrammingAdvices\Course 19 - Full Real Project\test\bin\Debug\test.pdb
+F:\ProgrammingAdvices\Course 19 - Full Real Project\test\obj\Debug\test.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 19 - Full Real Project\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 19 - Full Real Project\test\obj\Debug\test.exe
+F:\ProgrammingAdvices\Course 19 - Full Real Project\test\obj\Debug\test.pdb
